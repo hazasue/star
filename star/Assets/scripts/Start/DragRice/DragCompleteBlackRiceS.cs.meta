@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: a72f6b4016bf6b447a142b248fefa115
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hchar1: {fileID: 1643735630175283154, guid: 440e31d6a077a9f4dbabd1779528f7cc,
+      type: 3}
+  - hchar2: {fileID: 5657228165729690268, guid: d6dbaa7b26997254cab42f9874e1b6aa,
+      type: 3}
+  - hchar3: {fileID: 5606624102787217551, guid: b22a6a58dd3db354d87b6abc3df48cc2,
+      type: 3}
+  - hchar4: {fileID: 8240751412917009758, guid: 7d375dfff5124224ea748a3366ab400e,
+      type: 3}
+  - hchar5: {fileID: 7287657714447306156, guid: 722936c32c9e1bb4f98c8f9acf530374,
+      type: 3}
+  - hchar6: {fileID: 2598889061088476778, guid: e806311a7059a714c914454331e03b07,
+      type: 3}
+  - hchar7: {fileID: 1720273379681982720, guid: e44ebc616d52f5a45abda94428b7b114,
+      type: 3}
+  - hchar8: {fileID: 5659692530362597414, guid: 2bace92c6e4cfc34780953cc2fd8657d,
+      type: 3}
+  - hchar9: {fileID: 7477514324218965148, guid: e66a3499177100d4e8be29f77ced7ed8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

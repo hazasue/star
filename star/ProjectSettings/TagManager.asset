@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bar
+  - cup
+  - rice
+  - CompleteRice
+  - RedRice
+  - BlueRice
+  - BlackRice
+  - trashcan
+  - slushPos3
+  - slushPos1
+  - slushPos2
+  - slushCup3
+  - slushCup1
+  - slushCup2
+  - SlushOrder1
+  - SlushOrder2
+  - SlushOrder3
+  - StickOrder1
+  - StickOrder2
+  - StickOrder3
+  - ExitUI
+  - RedRiceM
+  - SlushOrderM1
+  - RedRiceS
+  - OptionUI
+  - SlushOrderS3
+  - YellowRiceM
+  - StickOrderS1
+  - StickOrderS3
+  - BlueCount
+  - YellowRiceS
+  - StickOrderM3
+  - SlushOrderS2
+  - cupM
+  - StickOrderM2
+  - SlushOrderS1
+  - cupS
+  - StickOrderM1
+  - SlushOrderM3
+  - BlueRiceS
+  - BlueRiceM
+  - BackToTitleUI
+  - SlushOrderM2
+  - StickOrderS2
+  - BackgroundUI
+  - RedCount
+  - StickCount2
+  - StickCount3
+  - StickCount1
+  - YellowCount
+  - RedLadle
+  - BlueLadle
+  - YellowLadle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
